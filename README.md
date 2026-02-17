@@ -17,14 +17,14 @@ This repository contains automation testing scripts built using Python and Selen
 * Selenium WebDriver
 * ChromeDriver
 
-## 📂 Project Structure
+📂 Project Structure
 
 Automation-Testing/
 │── amazon_bot.py
 │── requirements.txt
 │── README.md
 
-## ⚙️ Setup Instructions
+⚙️ Setup Instructions
 
 1. Clone the repository:
 
@@ -65,6 +65,6 @@ Automation-Testing/
 * Headless browser execution  
 * CI/CD integration (GitHub Actions)
 
-## 👨‍💻 Author
+👨‍💻 Author
 
-Shahid M
+Mohamed Sahid M
