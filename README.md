@@ -28,7 +28,7 @@ Automation-Testing/
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/Automation-Testing.git
+   git clone https://github.com/Mohamed-Shahid8668/Automation-Testing.git
 
 2. Install dependencies:
 
